@@ -25,7 +25,8 @@ SAYI2 GİR:45
 ## Gereksinimler
 
 Python 3. Ek kütüphane gerekmez.
-
+===================================================================
+===================================================================
 ## English
 ->(A simple calculator made with Python that runs in the console.)<-
 
@@ -52,5 +53,7 @@ SAYI2 GİR:45
 ## Requirements
 
 Python 3. No extra libraries needed.
+
+
 <img width="1024" height="1024" alt="Hesap_Makinesi_V3" src="https://github.com/user-attachments/assets/fc7262a4-5260-422e-811f-a2f03543937b" />
 
