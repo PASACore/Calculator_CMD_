@@ -1,8 +1,14 @@
-### HESAP MAKİNESİ(Calculator) 
-## Turkish
-->(Python ile yapılmış, konsolda çalışan basit bir hesap makinesidir.)<-
+<p align="center">
+  <img width="160" alt="Calculator" src="https://github.com/user-attachments/assets/7be79e87-aa25-4be4-9abf-6467682d03f9" />
+</p>
 
-# Özellikler
+<h1 align="center">HESAP MAKİNESİ (Calculator)</h1>
+
+## Turkish
+
+Python ile yapılmış, konsolda çalışan basit bir hesap makinesidir.
+
+### Özellikler
 
 - 4 işlem: `+`, `-`, `*`, `/`
 - Kare alma: `kare`
@@ -22,15 +28,17 @@ SAYI2 GİR:45
 ->>SONUÇ:8,100<<-
 ```
 
-## Gereksinimler
+### Gereksinimler
 
 Python 3. Ek kütüphane gerekmez.
-===================================================================
-===================================================================
-## English
-->(A simple calculator made with Python that runs in the console.)<-
 
-# Features
+---
+
+## English
+
+A simple calculator made with Python that runs in the console.
+
+### Features
 
 - 4 operations: `+`, `-`, `*`, `/`
 - Square: `kare`
@@ -50,10 +58,10 @@ SAYI2 GİR:45
 ->>SONUÇ:8,100<<-
 ```
 
-## Requirements
+### Requirements
 
 Python 3. No extra libraries needed.
 
+`kare` = square, `ac` = clear, `q` = quit
 
-<img width="1024" height="1024" alt="Hesap_Makinesi_V3" src="https://github.com/user-attachments/assets/fc7262a4-5260-422e-811f-a2f03543937b" />
 
